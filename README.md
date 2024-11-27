@@ -128,6 +128,10 @@ Acciones sugeridas: ETF SPDR S&P 500, Bonos corporativos Apple.
 ```
 Gráfico circular generado como "grafico.png".
 
+## Despliegue en HuggingFace Spaces :
+
+https://huggingface.co/spaces/Julicardeb/Final_HE2
+
 ## Contribuciones:
 
 ¡Se aceptan contribuciones! Si deseas agregar funcionalidades o mejorar el sistema, no dudes en enviar un Pull Request.
